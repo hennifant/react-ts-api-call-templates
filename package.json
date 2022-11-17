@@ -11,6 +11,7 @@
     "@types/react": "^18.0.25",
     "@types/react-dom": "^18.0.9",
     "axios": "^1.1.3",
+    "body-parser": "^1.20.1",
     "bootstrap": "^4.6.0",
     "cors": "^2.8.5",
     "express": "^4.18.2",
@@ -45,5 +46,25 @@
       "last 1 firefox version",
       "last 1 safari version"
     ]
-  }
+  },
+  "description": "This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).",
+  "main": "server.js",
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hennifant/react-ts-api-call-templates.git"
+  },
+  "keywords": [
+    "nodejs",
+    "epress",
+    "mongodb",
+    "rest",
+    "api"
+  ],
+  "author": "hennifant",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/hennifant/react-ts-api-call-templates/issues"
+  },
+  "homepage": "https://github.com/hennifant/react-ts-api-call-templates#readme"
 }
